@@ -1,0 +1,80 @@
+.Basic {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.primary {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: blue;
+  color: blue;
+  color: white;
+}
+
+.secondary {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: gray;
+  color: gray;
+  color: white;
+}
+
+.success {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: green;
+  color: green;
+  color: white;
+}
+
+.info {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: aqua;
+  color: aqua;
+  color: rgb(0, 0, 0);
+}
+
+.warning {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: yellow;
+  color: yellow;
+  color: rgb(0, 0, 0);
+}
+
+.danger {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: red;
+  color: red;
+  color: white;
+}
+
+.dark {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: black;
+  color: black;
+  color: white;
+}
+
+.light {
+  border-radius: 5px;
+  padding: 9px;
+  border-style: none;
+  background-color: rgb(218, 214, 214);
+  color: rgb(218, 214, 214);
+  color: rgb(0, 0, 0);
+}/*# sourceMappingURL=style.css.map */

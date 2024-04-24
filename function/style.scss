@@ -1,0 +1,47 @@
+@import "default";
+@import "colors";
+
+.Basic {
+    @include background-color($basic);
+    @include color($dark);
+}
+
+.primary {
+    @include background-color($primery);
+    @include color($basic);
+}
+
+.secondary {
+    @include background-color($secondary);
+    @include color($basic);
+}
+
+.success {
+    @include background-color($success);
+    @include color($basic);
+}
+
+.info {
+    @include background-color($info);
+    @include color($dark);
+}
+
+.warning {
+    @include background-color($warning);
+    @include color($dark);
+}
+
+.danger {
+    @include background-color($danger);
+    @include color($basic);
+}
+
+.dark {
+    @include background-color($dark);
+    @include color($basic);
+}
+
+.light {
+    @include background-color($light);
+    @include color($dark);
+}

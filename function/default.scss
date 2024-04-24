@@ -1,0 +1,11 @@
+@mixin base-btn{
+    border-radius: 5px;
+    padding: 9px;
+    border-style: none;
+}
+@mixin background-color($color){
+    @include base-btn();
+    @include color();
+    background-color: ($color);
+    color: ($color);
+}
